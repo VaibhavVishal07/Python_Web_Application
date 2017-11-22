@@ -18,9 +18,9 @@ Type in git in your command line either on mac or windows and see if you get an 
 
 At this point, Git and Heroku should be working!
 
-Now in your terminal or command prompt, enter the command git clone https://github.com/CleverProgrammer/Python_Web_Application
+Now in your terminal or command prompt, enter the command git clone https://github.com/VaibhavVishal07/Python_Web_Application
 
-Now navigate to the project folder using cd flask_vote_app
+Now navigate to the project folder using cd Python_Web_Application
 
 Enter the command: heroku login and provide your heroku login details. Note: When you type in password the cursor in the command line doesn't move. Don't freak out lol just type in your password for Heroku anyway.
 
